@@ -5,7 +5,7 @@ Hi - I'm Eshaan
 I'm a second-year Computer Science student at UC Irvine.
 
 * 🌍  I'm based in Irvine, CA
-* ✉️  You can contact me at [rawateshaan0 [at] gmail [dot ]com]
+* ✉️  You can contact me at (rawateshaan0 [at] gmail [dot] com)
 
 
 ### Socials
